@@ -3,9 +3,13 @@ from random import sample
 //定義N
 
 N = [1,2,3,4,5,6,7,8,9]
-//
+
+//選出不重複的四個數字
+  sample(範圍,選幾個出來）
 
 a = sample(N,1)
+
+//因為是4位數，首位不能為0
 
 N.remove(a[0])
 
