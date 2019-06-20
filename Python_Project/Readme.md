@@ -1,3 +1,7 @@
+# 幾A幾B
+
+![pic](使用範例.JPG)
+
 from random import sample
 
 //定義N
